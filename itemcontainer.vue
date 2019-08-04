@@ -152,6 +152,7 @@ export default {
     }
     .submit_item{
     	background-image: url(../images/3-1.png);
+	width:100px;
     }
     .item_list_container{
     	position: absolute;
