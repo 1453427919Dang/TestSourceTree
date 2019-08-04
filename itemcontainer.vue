@@ -309,8 +309,12 @@ export default {
 			border-color: #ffd400;
 		}
 		.option_detail{
+			bowen1: #ffd400;
+			bowen2: #575757;
+			bowen3: #ffd400;
 			width: 7.5rem;
 			padding-top: 0.11rem;
+			bowen4: #ffd400;
 		}
 	}
 </style>
