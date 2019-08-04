@@ -195,6 +195,8 @@ export default {
 		.option_detail{
 			width: 7.5rem;
 			padding-top: 0.11rem;
+			color: black;
+			border-color: #fff;
 		}
 	}
 </style>
