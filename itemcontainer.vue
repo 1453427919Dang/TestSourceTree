@@ -156,7 +156,7 @@ export default {
     .item_list_container{
     	position: absolute;
     	height: 7.0rem;
-    	width: 8.0rem;
+    	width: 10.0rem;
     	top: 2.4rem;
     	left: 3rem;
 		-webkit-font-smoothing: antialiased;
