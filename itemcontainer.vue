@@ -314,6 +314,8 @@ export default {
 			bowen3: #ffd400;
 			width: 7.5rem;
 			padding-top: 0.11rem;
+			color: black;
+			border-color: #fff;
 			bowen4: #ffd400;
 		}
 	}
