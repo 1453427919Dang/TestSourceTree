@@ -151,7 +151,12 @@ export default {
     	background-image: url(../images/2-2.png);
     }
     .submit_item{
-    	background-image: url(../images/3-1.png);
+			height: 7.0rem;
+    	width: 10.0rem;
+    	top: 2.4rem;
+    	left: 3rem;
+			background-image: url(../images/bowen.png);
+			width: 300px;
     }
     .item_list_container{
     	position: absolute;
